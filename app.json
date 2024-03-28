@@ -3,7 +3,7 @@
     "name": "Budget-app",
     "slug": "Budget-app",
     "version": "1.0.0",
-    "scheme": "your-app-scheme",
+    "scheme": "Budget-app",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
